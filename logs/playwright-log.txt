@@ -1,0 +1,75 @@
+{"level":30,"time":"2021-10-11T00:15:28.728Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Listening on 58672"}
+{"level":30,"time":"2021-10-11T00:15:29.232Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-11T00:15:29.250Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:29.598Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-11T00:15:29.599Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:30.449Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: //div/a[contains(text(), \"Olá Papito, seu saldo é R$ 1000\")]"}
+{"level":30,"time":"2021-10-11T00:15:30.671Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:30.671Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-11T00:15:30.671Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:30.689Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:30.690Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-11T00:15:30.690Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:31.276Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-11T00:15:31.289Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:31.641Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-11T00:15:31.641Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:32.086Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: xpath=//a/strong[text()=\"Fazer PIX\"]"}
+{"level":30,"time":"2021-10-11T00:15:32.251Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-11T00:15:32.284Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-11T00:15:32.312Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-11T00:15:32.337Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: xpath=//button[contains(text(),\"Enviar PIX\")]"}
+{"level":30,"time":"2021-10-11T00:15:32.458Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: xpath=//td[contains(text(), \"15984667711\")]/.."}
+{"level":30,"time":"2021-10-11T00:15:32.469Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-11T00:15:32.485Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Retrieved text for element xpath=//td[contains(text(), \"15984667711\")]/.. containing 634-721-6735\tEnvio de PIX\tNubank - PIX para 15984667711\t10/10/2021\tR$ -900 "}
+{"level":30,"time":"2021-10-11T00:15:32.630Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:32.630Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-11T00:15:32.630Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:32.642Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:32.642Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-11T00:15:32.642Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:33.166Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-11T00:15:33.174Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:33.478Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-11T00:15:33.478Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:33.923Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: xpath=//a/strong[text()=\"Fazer PIX\"]"}
+{"level":30,"time":"2021-10-11T00:15:34.050Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-11T00:15:34.080Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-11T00:15:34.106Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-11T00:15:34.128Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: xpath=//button[contains(text(),\"Enviar PIX\")]"}
+{"level":30,"time":"2021-10-11T00:15:34.257Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Strict mode is: true"}
+{"level":30,"time":"2021-10-11T00:15:34.275Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Retrieved text for element css=.media-content containing Oops. Transferir ZERO é osso hein..."}
+{"level":30,"time":"2021-10-11T00:15:34.394Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:34.394Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-11T00:15:34.394Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:34.409Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:34.409Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-11T00:15:34.409Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:35.025Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-10-11T00:15:35.035Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:35.296Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Video path: undefined"}
+{"level":30,"time":"2021-10-11T00:15:35.296Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:35.757Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: xpath=//a/strong[text()=\"Fazer PIX\"]"}
+{"level":30,"time":"2021-10-11T00:15:35.902Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: css=.select select"}
+{"level":30,"time":"2021-10-11T00:15:35.937Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: id=chave-pix"}
+{"level":30,"time":"2021-10-11T00:15:35.968Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: id=valor"}
+{"level":30,"time":"2021-10-11T00:15:35.993Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Page|Frame|Element resolved elementSelector: xpath=//button[contains(text(),\"Enviar PIX\")]"}
+{"level":30,"time":"2021-10-11T00:15:36.117Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Strict mode is: true"}
+================= Original suppressed error =================
+page.waitForSelector: Timeout 10000ms exceeded.
+=========================== logs ===========================
+waiting for selector "css=.media-content"
+============================================================
+    at C:\Python39\lib\site-packages\Browser\wrapper\index.js:26342:50
+    at step (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26310:23)
+    at Object.next (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26291:53)
+    at fulfilled (C:\Python39\lib\site-packages\Browser\wrapper\index.js:26282:58) {
+  name: 'TimeoutError'
+}
+=============================================================
+{"level":30,"time":"2021-10-11T00:15:46.392Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:46.392Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-11T00:15:46.392Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
+{"level":30,"time":"2021-10-11T00:15:46.425Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active context"}
+{"level":30,"time":"2021-10-11T00:15:46.426Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changing current active page"}
+{"level":30,"time":"2021-10-11T00:15:46.426Z","pid":12788,"hostname":"DESKTOP-EL8TEB1","msg":"Changed active page"}
